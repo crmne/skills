@@ -14,7 +14,7 @@ With the [`skill`](https://github.com/crmne/skill) gem:
 gem exec skill add crmne/skills@bitwig-track
 ```
 
-Inside a project it installs into the project's agent folders; anywhere else, globally. Pass `--global` or `--agent claude-code` to choose. `npx skills add crmne/skills --skill bitwig-track` works too.
+Inside a project it installs into the project's agent folders; anywhere else, globally. Pass `--global` or `--agent claude-code` to choose.
 
 ## License
 
